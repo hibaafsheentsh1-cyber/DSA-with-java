@@ -1,4 +1,4 @@
-public class SolidSquare{
+public class Pattern{
     public static void main(String[] args){
         int n=8;
         for (int row=1; row<=n;row++){

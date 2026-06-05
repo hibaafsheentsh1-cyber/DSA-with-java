@@ -6,7 +6,7 @@ public class Basics {
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i <= arr.length - 1; i++) {
             for (int j = 0; j <= arr[i].length - 1; j++) {
-                System.out.println("provide value for row= " + i + " and column= " + j)
+                System.out.println("provide value for row= " + i + " and column= " + j);
                 arr[i][j] = sc.nextInt();
             }
         }

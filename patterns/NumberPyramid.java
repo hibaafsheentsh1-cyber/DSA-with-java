@@ -8,7 +8,6 @@ public class NumberPyramid {
             for(int col=1;col<=row;col++){
                 System.out.print(col+" ");
             }
-            int rowValue=row;
             int decRowValue=row-1;
             for(int col=1;col<=row-1;col++){
                 System.out.print(decRowValue+" ");
