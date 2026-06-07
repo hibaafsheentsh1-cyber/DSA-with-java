@@ -1,4 +1,5 @@
-package Oops;
+package OopsConcepts;
+
 public class Student {
     public String name;
     public int id;
