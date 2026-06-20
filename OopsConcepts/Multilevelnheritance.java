@@ -3,7 +3,7 @@ class MultiLevel {
         System.out.println("Eating....");
     }
  }
-class Dog extends Inheritance{
+class Dog extends MultiLevel{
     public void bark(){
         System.out.println("Barking.....");
     }
